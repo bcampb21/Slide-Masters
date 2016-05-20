@@ -1,3 +1,2 @@
-Coded by Blake Campbell, Music by Blake Campbell
-
-Images by Barry Campbell
+Slide Masters code by Blake Campbell
+Music by Blake Campbell
